@@ -1,7 +1,7 @@
 #ifndef CONTACTFILTER_H
 #define CONTACTFILTER_H
 
-#include <Box2D/Box2D.h>
+#include "Box2D/Box2D.h"
 
 class ContactFilter : public b2ContactFilter
 {

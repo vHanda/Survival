@@ -5,7 +5,7 @@
 #include <vector>
 #include "Image/SDL_SurfacePtr.h"
 #include <boost/ptr_container/ptr_list.hpp>
-#include <Box2D/Box2D.h>
+#include "Box2D/Box2D.h"
 
 class Bullet;
 class Shield;

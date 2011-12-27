@@ -2,7 +2,7 @@
 #define STEERINGBEHAVIORS_H
 
 #include <vector>
-#include <Box2D/Box2D.h>
+#include "Box2D/Box2D.h"
 
 class SteeringBehaviors
 {
