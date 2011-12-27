@@ -16,8 +16,8 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include "Box2D/Dynamics/Controllers/b2Controller.h"
-#include "Box2D/Common/b2BlockAllocator.h"
+#include "Dynamics/Controllers/b2Controller.h"
+#include "Common/b2BlockAllocator.h"
 
 
 b2Controller::~b2Controller()

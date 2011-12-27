@@ -19,11 +19,11 @@
 #ifndef EDGE_AND_CIRCLE_CONTACT_H
 #define EDGE_AND_CIRCLE_CONTACT_H
 
-#include "Box2D/Common/b2Math.h"
-#include "Box2D/Collision/b2Collision.h"
-#include "Box2D/Collision/Shapes/b2EdgeShape.h"
-#include "Box2D/Collision/Shapes/b2CircleShape.h"
-#include "Box2D/Dynamics/Contacts/b2Contact.h"
+#include "Common/b2Math.h"
+#include "Collision/b2Collision.h"
+#include "Collision/Shapes/b2EdgeShape.h"
+#include "Collision/Shapes/b2CircleShape.h"
+#include "Dynamics/Contacts/b2Contact.h"
 
 class b2BlockAllocator;
 

@@ -16,7 +16,7 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include "Box2D/Dynamics/Controllers/b2ConstantForceController.h"
+#include "Dynamics/Controllers/b2ConstantForceController.h"
 
 b2ConstantForceController::b2ConstantForceController(const b2ConstantForceControllerDef* def) : b2Controller(def)
 {

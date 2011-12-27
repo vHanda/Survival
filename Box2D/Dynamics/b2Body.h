@@ -19,10 +19,10 @@
 #ifndef B2_BODY_H
 #define B2_BODY_H
 
-#include "Box2D/Common/b2Math.h"
-#include "Box2D/Collision/Shapes/b2Shape.h"
-#include "Box2D/Dynamics/Joints/b2Joint.h"
-#include "Box2D/Dynamics/Controllers/b2Controller.h"
+#include "Common/b2Math.h"
+#include "Collision/Shapes/b2Shape.h"
+#include "Dynamics/Joints/b2Joint.h"
+#include "Dynamics/Controllers/b2Controller.h"
 
 #include <memory>
 

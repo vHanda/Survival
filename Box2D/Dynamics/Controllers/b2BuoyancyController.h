@@ -19,7 +19,7 @@
 #ifndef B2_BUOYANCYCONTROLLER_H
 #define B2_BUOYANCYCONTROLLER_H
 
-#include "Box2D/Dynamics/Controllers/b2Controller.h"
+#include "Dynamics/Controllers/b2Controller.h"
 
 class b2BuoyancyControllerDef;
 

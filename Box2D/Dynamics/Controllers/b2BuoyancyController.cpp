@@ -16,7 +16,7 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include "Box2D/Dynamics/Controllers/b2BuoyancyController.h"
+#include "Dynamics/Controllers/b2BuoyancyController.h"
 
 b2BuoyancyController::b2BuoyancyController(const b2BuoyancyControllerDef* def) : b2Controller(def)
 {

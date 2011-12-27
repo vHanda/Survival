@@ -19,7 +19,7 @@
 #ifndef B2_EDGE_SHAPE_H
 #define B2_EDGE_SHAPE_H
 
-#include "Box2D/Collision/Shapes/b2Shape.h"
+#include "Collision/Shapes/b2Shape.h"
 
 /// This structure is used to build circle shapes.
 struct b2EdgeChainDef : public b2ShapeDef

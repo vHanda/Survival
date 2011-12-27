@@ -16,10 +16,10 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include "Box2D/Dynamics/Contacts/b2PolyContact.h"
-#include "Box2D/Dynamics/b2Body.h"
-#include "Box2D/Dynamics/b2WorldCallbacks.h"
-#include "Box2D/Common/b2BlockAllocator.h"
+#include "Dynamics/Contacts/b2PolyContact.h"
+#include "Dynamics/b2Body.h"
+#include "Dynamics/b2WorldCallbacks.h"
+#include "Common/b2BlockAllocator.h"
 
 #include <memory>
 #include <new>

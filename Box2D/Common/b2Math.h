@@ -19,7 +19,7 @@
 #ifndef B2_MATH_H
 #define B2_MATH_H
 
-#include "Box2D/Common/b2Settings.h"
+#include "Common/b2Settings.h"
 
 #ifdef TARGET_OS_IPHONE
 #include "math.h"

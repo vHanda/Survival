@@ -16,9 +16,9 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include "Box2D/Dynamics/b2ContactManager.h"
-#include "Box2D/Dynamics/b2World.h"
-#include "Box2D/Dynamics/b2Body.h"
+#include "Dynamics/b2ContactManager.h"
+#include "Dynamics/b2World.h"
+#include "Dynamics/b2Body.h"
 
 // This is a callback from the broadphase when two AABB proxies begin
 // to overlap. We create a b2Contact to manage the narrow phase.

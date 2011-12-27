@@ -16,7 +16,7 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include "Box2D/Dynamics/Controllers/b2ConstantAccelController.h"
+#include "Dynamics/Controllers/b2ConstantAccelController.h"
 
 b2ConstantAccelController::b2ConstantAccelController(const b2ConstantAccelControllerDef* def) : b2Controller(def)
 {

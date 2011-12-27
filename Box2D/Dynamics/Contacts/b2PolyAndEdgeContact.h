@@ -19,7 +19,7 @@
 #ifndef POLY_AND_EDGE_CONTACT_H
 #define POLY_AND_EDGE_CONTACT_H
 
-#include "Box2D/Dynamics/Contacts/b2Contact.h"
+#include "Dynamics/Contacts/b2Contact.h"
 
 class b2BlockAllocator;
 

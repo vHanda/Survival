@@ -16,7 +16,7 @@
 * 3. This notice may not be removed or altered from any source distribution.
 */
 
-#include "Box2D/Dynamics/Controllers/b2GravityController.h"
+#include "Dynamics/Controllers/b2GravityController.h"
 
 b2GravityController::b2GravityController(const b2GravityControllerDef* def) : b2Controller(def)
 {
