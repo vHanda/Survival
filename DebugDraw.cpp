@@ -61,7 +61,8 @@ void DebugDraw::DrawSolidCircle (const b2Vec2 &center, float32 radius, const b2V
     circleRGBA( SDL_GetVideoSurface(), center.x*World::ratio -r.x, center.y*World::ratio -r.y,
                 radius*World::ratio, 0, 0, 0, 255);
 }
-// void DebugDraw::DrawXForm (const b2XForm &xf)
-// {
-//     //std::cout << "Drawing XForm" << std::endl;
-// }
+
+void DebugDraw::DrawXForm (const b2XForm &xf)
+{
+     //std::cout << "Drawing XForm" << std::endl;
+}
