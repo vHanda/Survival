@@ -1,0 +1,5 @@
+#!/bin/bash
+
+CPPFILES="SteeringBehaviors.cpp DebugDraw.cpp main.cpp NeuralNetwork/NeuralNetwork.cpp NeuralNetwork/NN_File.cpp Box2DEntity.cpp Game.cpp GameStates.cpp Map.cpp Camera.cpp Timer.cpp App.cpp Image/Rand/mtrand.cpp Image/Plasma.cpp Image/Fog.cpp Image/SDL_SurfacePtr.cpp Image/PerlinNoise.cpp Agent.cpp Menu/Page_5.cpp Menu/Page.cpp Menu/Page_4.cpp Menu/Page_2.cpp Menu/Page_1.cpp Menu/Page_3.cpp Menu/AppStates.cpp Menu/Credits.cpp Menu/Help.cpp Menu/Menu.cpp Menu/Highscore.cpp TextBox.cpp Engine/Keyboard.cpp Engine/Managers/MessageManager.cpp Engine/Managers/EffectManager.cpp Engine/Engine.cpp Engine/Entity.cpp Engine/SoundEffect.cpp Engine/Effect.cpp Engine/Mouse.cpp Engine/Sprite.cpp Projectile.cpp Obstacle.cpp ContactListener.cpp Star.cpp Monster.cpp MonsterManager.cpp Shield.cpp tinyxml/tinyxmlparser.cpp tinyxml/tinyxmlerror.cpp tinyxml/tinystr.cpp tinyxml/tinyxml.cpp ContactFilter.cpp Neural_SB.cpp Player.cpp Score.cpp Bullet.cpp Monster_SB.cpp"
+
+g++ `sdl-config --cflags` `sdl-config --libs` -lSDL_image -lSDL_mixer -lSDL_ttf -lSDL_gfx -lBox2D $CPPFILES

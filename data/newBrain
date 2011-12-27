@@ -1,0 +1,86 @@
+<neuralnetwork>
+    <layer neuron="4" />
+    <layer neuron="5" />
+    <layer neuron="5" />
+    <weights>
+        <layer num="1">
+            <neuron>
+                <w>-5.75876</w>
+                <w>-4.56334</w>
+                <w>14.224</w>
+                <w>3.35237</w>
+                <bias>-4.43118</bias>
+            </neuron>
+            <neuron>
+                <w>1.97859</w>
+                <w>-1.99055</w>
+                <w>6.04471</w>
+                <w>3.54615</w>
+                <bias>-6.4188</bias>
+            </neuron>
+            <neuron>
+                <w>0.638144</w>
+                <w>4.89051</w>
+                <w>-0.186631</w>
+                <w>-11.8558</w>
+                <bias>-0.708877</bias>
+            </neuron>
+            <neuron>
+                <w>13.7652</w>
+                <w>-7.80837</w>
+                <w>-3.47497</w>
+                <w>-4.69841</w>
+                <bias>-4.80377</bias>
+            </neuron>
+            <neuron>
+                <w>-6.35779</w>
+                <w>-0.668094</w>
+                <w>14.7248</w>
+                <w>-0.26839</w>
+                <bias>-0.269537</bias>
+            </neuron>
+        </layer>
+        <layer num="2">
+            <neuron>
+                <w>-3.53942</w>
+                <w>15.9768</w>
+                <w>17.7853</w>
+                <w>-14.388</w>
+                <w>-19.9967</w>
+                <bias>11.1026</bias>
+            </neuron>
+            <neuron>
+                <w>20.1026</w>
+                <w>-19.3779</w>
+                <w>-2.91512</w>
+                <w>4.40455</w>
+                <w>-1.53938</w>
+                <bias>-1.11763</bias>
+            </neuron>
+            <neuron>
+                <w>-4.02354</w>
+                <w>-2.93115</w>
+                <w>4.54979</w>
+                <w>1.28138</w>
+                <w>6.67005</w>
+                <bias>-2.64773</bias>
+            </neuron>
+            <neuron>
+                <w>0.850954</w>
+                <w>5.74072</w>
+                <w>-1.37374</w>
+                <w>-5.6464</w>
+                <w>-4.06463</w>
+                <bias>1.68736</bias>
+            </neuron>
+            <neuron>
+                <w>-3.54974</w>
+                <w>3.38053</w>
+                <w>-10.0656</w>
+                <w>4.11866</w>
+                <w>5.87302</w>
+                <bias>-2.57015</bias>
+            </neuron>
+        </layer>
+    </weights>
+</neuralnetwork>

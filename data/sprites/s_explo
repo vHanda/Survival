@@ -1,0 +1,7 @@
+<sprite fps="20">
+    <surface>data/gfx/shield/s_explo1.png</surface>
+    <surface>data/gfx/shield/s_explo2.png</surface>
+    <surface>data/gfx/shield/s_explo3.png</surface>
+    <surface>data/gfx/shield/s_explo4.png</surface>
+	<surface>data/gfx/shield/s_explo5.png</surface>
+</sprite> 

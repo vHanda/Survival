@@ -1,0 +1,12 @@
+<agent>
+	<image>data/gfx/monster/monster.png</image>
+	<box2d>
+		<density>20.0</density> 
+		<friction>5.0</friction> 
+		<restitution>1.0</restitution>
+	</box2d>
+	<bulletTime>1.0</bulletTime>
+	<shieldTime>2.0</shieldTime>
+	<speed>15.0</speed>
+	<life>4.0</life>
+</agent>

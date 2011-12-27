@@ -1,0 +1,7 @@
+<sprite fps="15">
+    <surface>data/gfx/monster/monster_explo1.png</surface>
+    <surface>data/gfx/monster/monster_explo2.png</surface>
+    <surface>data/gfx/monster/monster_explo3.png</surface>
+    <surface>data/gfx/monster/monster_explo4.png</surface>
+	<surface>data/gfx/monster/monster_explo5.png</surface>
+</sprite> 

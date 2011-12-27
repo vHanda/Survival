@@ -1,0 +1,12 @@
+<projectile>
+	<image>data/gfx/shield/plr_shield.png</image>
+	<speed>15.0</speed>
+	<life>4.0</life>
+	<damage>2.00</damage>
+	<size>35</size>
+	<box2d>
+		<density>25.0</density>
+		<friction>5.0</friction>
+		<restitution>1.0</restitution>
+	</box2d>
+</projectile>

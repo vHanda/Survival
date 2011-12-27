@@ -1,0 +1,12 @@
+<projectile>
+	<image>data/gfx/bullet/bullet.png</image>
+	<speed>25.0</speed>
+	<life>0.75</life>
+	<damage>0.50</damage>
+	<size>10</size>
+	<box2d>
+		<density>5.0</density> 
+		<friction>5.0</friction> 
+		<restitution>1.0</restitution>
+	</box2d>
+</projectile>

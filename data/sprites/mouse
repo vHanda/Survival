@@ -1,0 +1,10 @@
+<sprite fps="4">
+    <surface>data/gfx/mouse/mouse1.png</surface>
+    <surface>data/gfx/mouse/mouse2.png</surface>
+    <surface>data/gfx/mouse/mouse3.png</surface>
+    <surface>data/gfx/mouse/mouse4.png</surface>
+    <surface>data/gfx/mouse/mouse5.png</surface>
+    <surface>data/gfx/mouse/mouse6.png</surface>
+    <surface>data/gfx/mouse/mouse7.png</surface>
+    <surface>data/gfx/mouse/mouse8.png</surface>
+</sprite> 

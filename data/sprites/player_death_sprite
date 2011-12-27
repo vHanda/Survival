@@ -1,0 +1,22 @@
+<sprite fps="12">
+    <surface>data/gfx/player/player_d2.png</surface>
+    <surface>data/gfx/player/player_d3.png</surface>
+    <surface>data/gfx/player/player_d4.png</surface>
+    <surface>data/gfx/player/player_d5.png</surface>
+    <surface>data/gfx/player/player_d6.png</surface>
+    <surface>data/gfx/player/player_d7.png</surface>
+    <surface>data/gfx/player/player_d8.png</surface>
+    <surface>data/gfx/player/player_d9.png</surface>
+    <surface>data/gfx/player/player_d10.png</surface>
+    <surface>data/gfx/player/player_d11.png</surface>
+    <surface>data/gfx/player/player_d12.png</surface>
+    <surface>data/gfx/player/player_d13.png</surface>
+    <surface>data/gfx/player/player_d14.png</surface>
+    <surface>data/gfx/player/player_d15.png</surface>
+    <surface>data/gfx/player/player_d16.png</surface>
+    <surface>data/gfx/player/player_d17.png</surface>
+    <surface>data/gfx/player/player_d18.png</surface>
+    <surface>data/gfx/player/player_d19.png</surface>
+    <surface>data/gfx/player/player_d20.png</surface>
+    <surface>data/gfx/player/player_d21.png</surface>
+</sprite> 

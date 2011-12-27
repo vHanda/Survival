@@ -1,0 +1,8 @@
+<sprite fps="20">
+    <surface>data/gfx/bullet/explo1.png</surface>
+    <surface>data/gfx/bullet/explo2.png</surface>
+    <surface>data/gfx/bullet/explo3.png</surface>
+    <surface>data/gfx/bullet/explo4.png</surface>
+    <surface>data/gfx/bullet/explo5.png</surface>
+    <surface>data/gfx/bullet/explo6.png</surface>
+</sprite> 

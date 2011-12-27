@@ -1,0 +1,10 @@
+<sprite fps="8">
+    <surface>data/gfx/star/star_d1.png</surface>
+    <surface>data/gfx/star/star_d2.png</surface>
+    <surface>data/gfx/star/star_d3.png</surface>
+    <surface>data/gfx/star/star_d4.png</surface>
+    <surface>data/gfx/star/star_d5.png</surface>
+    <surface>data/gfx/star/star_d6.png</surface>
+    <surface>data/gfx/star/star_d7.png</surface>
+    <surface>data/gfx/star/star_d8.png</surface>
+</sprite> 

@@ -1,0 +1,78 @@
+<neuralnetwork>
+	<layer neuron="4"></layer>
+	<layer neuron="5"></layer>
+	<layer neuron="5"></layer>
+	
+	<weights>
+		<layer num="1">
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+		</layer>
+		<layer num="2">
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+			<neuron>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+				<w>0.0f</w>
+			</neuron>
+		</layer>
+	</weights>
+</neuralnetwork> 

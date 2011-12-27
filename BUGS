@@ -1,0 +1,6 @@
+Release Build (20th May 09)
+- Camera keeps vibrating until a star is collected.
+- When the player dies the game freezes up.
+
+Debug Build
+- Menu -> New Game -> Menu -> New Game - Causes the game to crash.

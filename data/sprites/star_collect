@@ -1,0 +1,7 @@
+<sprite fps="25">
+    <surface>data/gfx/star/star_c1.png</surface>
+    <surface>data/gfx/star/star_c2.png</surface>
+    <surface>data/gfx/star/star_c3.png</surface>
+    <surface>data/gfx/star/star_c4.png</surface>
+    <surface>data/gfx/star/star_c5.png</surface>
+</sprite> 

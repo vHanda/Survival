@@ -1,0 +1,12 @@
+<sprite fps="0">
+    <surface>data/gfx/player/player1.png</surface>
+    <surface>data/gfx/player/player2.png</surface>
+    <surface>data/gfx/player/player3.png</surface>
+    <surface>data/gfx/player/player4.png</surface>
+    <surface>data/gfx/player/player5.png</surface>
+    <surface>data/gfx/player/player6.png</surface>
+    <surface>data/gfx/player/player7.png</surface>
+    <surface>data/gfx/player/player8.png</surface>
+    <surface>data/gfx/player/player9.png</surface>
+    <surface>data/gfx/player/player10.png</surface>
+</sprite> 
