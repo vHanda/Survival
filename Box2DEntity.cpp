@@ -46,8 +46,10 @@ void Box2DEntity::adjustAngle(SDL_SurfacePtr & s)
         return;
 
     //Rotate
-    SDL_Surface * newSurface = rotozoomSurface( s.get(), diff, 1.0f, 10 );
-    s = newSurface;
+    SDL_Surface * newSurface = rotozoomSurface( s.get(), diff, 1.0f, SMOOTHING_ON );
+    SDL_Rect pos = {0,0,0,0};
+    SDL_BlitSurface(newSurface, NULL, s.get(), &pos); 
+    SDL_FreeSurface(newSurface);
     m_fAngle += diff;
 
     //std::cout << "Vel : " << vel.x << " " << vel.y << std::endl;
